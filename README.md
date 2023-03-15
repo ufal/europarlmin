@@ -1,4 +1,4 @@
-# europarlmin
+# EuroParlMin v1.0
 Corpus of European Parliament debates organized as a corpus for meeting summarization, i.e. matching full transcripts and minutes from the sessions. Used in the shared task of AutoMin 2023.
 
 This repository contains the **train** and **dev** sets. Each set contains directories labeled by date of the session in the ``yyyy-mm-dd`` format. Each directory contains the transcripts and minutes of one or more "chapters", i.e. sections of the meeting. Chapters are split further into parts.
